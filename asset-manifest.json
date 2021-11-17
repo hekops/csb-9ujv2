@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://hekops.github.io/csb-9ujv2/static/css/main.12a5d8bf.chunk.css",
+    "main.js": "https://hekops.github.io/csb-9ujv2/static/js/main.4588dd80.chunk.js",
+    "main.js.map": "https://hekops.github.io/csb-9ujv2/static/js/main.4588dd80.chunk.js.map",
+    "runtime-main.js": "https://hekops.github.io/csb-9ujv2/static/js/runtime-main.48a03ee4.js",
+    "runtime-main.js.map": "https://hekops.github.io/csb-9ujv2/static/js/runtime-main.48a03ee4.js.map",
+    "static/js/2.3797f33b.chunk.js": "https://hekops.github.io/csb-9ujv2/static/js/2.3797f33b.chunk.js",
+    "static/js/2.3797f33b.chunk.js.map": "https://hekops.github.io/csb-9ujv2/static/js/2.3797f33b.chunk.js.map",
+    "index.html": "https://hekops.github.io/csb-9ujv2/index.html",
+    "precache-manifest.6a8d73744ff66e55ff18d9345fc874dd.js": "https://hekops.github.io/csb-9ujv2/precache-manifest.6a8d73744ff66e55ff18d9345fc874dd.js",
+    "service-worker.js": "https://hekops.github.io/csb-9ujv2/service-worker.js",
+    "static/css/main.12a5d8bf.chunk.css.map": "https://hekops.github.io/csb-9ujv2/static/css/main.12a5d8bf.chunk.css.map",
+    "static/js/2.3797f33b.chunk.js.LICENSE.txt": "https://hekops.github.io/csb-9ujv2/static/js/2.3797f33b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48a03ee4.js",
+    "static/js/2.3797f33b.chunk.js",
+    "static/css/main.12a5d8bf.chunk.css",
+    "static/js/main.4588dd80.chunk.js"
+  ]
+}
